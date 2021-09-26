@@ -3,10 +3,13 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faShoppingCart } from '@fortawesome/free-solid-svg-icons'
 import './SingleCard.css'
 const SingleCard = (props) => {
+
+    //destructuring all data 
     const { name, salary, img, age, Education, Country } = props.astronaut;
     const shoppingCart = <FontAwesomeIcon icon={faShoppingCart} />
 
     return (
+        //show single data
         <div className="single-card">
             <div className="card">
                 <img src={img} alt="" />

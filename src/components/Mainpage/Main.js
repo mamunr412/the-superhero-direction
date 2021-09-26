@@ -6,6 +6,7 @@ const Main = () => {
     const [astronauts, setAstronauts] = useState([]);
     const [cart, setCart] = useState([]);
 
+    //load data from JSON file
     useEffect(() => {
         fetch('./astronauts.JSON')
             .then(res => res.json())
@@ -18,6 +19,7 @@ const Main = () => {
     }
 
     return (
+        //show data main page
         <div className="main-container">
             <div className="single-astronaut">
                 {
@@ -27,7 +29,9 @@ const Main = () => {
                         handelCart={handelCart}></SingleCard>)
                 }
             </div>
+            {/* add cart section */}
             <div>
+
                 <Cart
 
                     cart={cart}></Cart>
