@@ -19,10 +19,11 @@
 .regular-btn{
     background-color: #f67728;
     padding: 5px;
-  margin-bottom:10px ;
-  color: white;
-  border-radius: 5px;
-  border: 1px solid #f67728;
+    margin-bottom:10px ;
+    color: white;
+    border-radius: 5px;
+    border: 1px solid #f67728;
+    cursor: pointer;
 }
 
 .details h5{
