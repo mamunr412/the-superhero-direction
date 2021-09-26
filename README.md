@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Meeting With Astronuat](https://react-simple-project-3.netlify.app/).
 
 ## Available Scripts
 
