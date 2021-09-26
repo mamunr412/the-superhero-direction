@@ -3,6 +3,7 @@
         "id": "1",
         "name": "Scott Kelly",
         "age": "57 years",
+        "Country": "USA",
         "Education": "University of Tennessee",
         "img": "https://pbs.twimg.com/profile_images/975030326459170816/ivHlJOYx_400x400.jpg",
         "salary": 6400
@@ -11,6 +12,7 @@
         "id": "2",
         "name": "Christina Koch",
         "age": "42 years",
+        "Country": "USA",
         "Education": "North Carolina School of Science and Mathematics",
         "img": "https://heavy.com/wp-content/uploads/2019/10/christina-hammock-koch-1.jpg?quality=65&strip=all",
         "salary": 1450
@@ -19,6 +21,7 @@
         "id": "3",
         "name": "Peggy Whitson",
         "age": "61 years",
+        "Country": "USA",
         "Education": "Rice University",
         "img": "https://cdn.britannica.com/29/136329-050-DBA01A8F/Peggy-Whitson.jpg",
         "salary": 2000
@@ -27,6 +30,7 @@
         "id": "4",
         "name": "Andrew R. Morgan",
         "age": "45years",
+        "Country": "USA",
         "Education": "Uniformed Services University of the Health Sciences, Dover High School",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2DKoTwWQSjqx1oCXfJrRyuwPUJDYnHQeEfQ&usqp=CAU",
         "salary": 1700
@@ -35,6 +39,7 @@
         "id": "5",
         "name": "Michael López-Alegría",
         "age": "63 years",
+        "Country": "USA",
         "Education": "United States Naval Academy, Harvard Kennedy School",
         "img": "https://www.zero2infinity.space/wp-content/uploads/2016/11/Michael_Lopez-Alegria.jpg",
         "salary": 1900
@@ -43,6 +48,7 @@
         "id": "6",
         "name": "Liu Yang",
         "age": "42 years",
+        "Country": "China",
         "Education": "PLA Air Force Aviation University",
         "img": "https://www.chinadaily.com.cn/china/images/19thcpcnationalcongress/attachement/jpg/site201/20121203/001d09094ce11226b73d0a.jpg",
         "salary": 64500
@@ -51,6 +57,7 @@
         "id": "7",
         "name": "Jessica Meir",
         "age": "44 years",
+        "Country": "USA",
         "Education": "Brown University",
         "img": "https://www.ltu.se/cms_fs/1.203382!/image/524D8725.jpg",
         "salary": 13000
@@ -59,6 +66,7 @@
         "id": "8",
         "name": "Anne McClain",
         "age": "42 years",
+        "Country": "USA",
         "Education": "United States Military Academy ",
         "img": "https://upload.wikimedia.org/wikipedia/commons/9/92/Anne_C._McClain_portrait.jpg",
         "salary": 22000
@@ -67,6 +75,7 @@
         "id": "9",
         "name": "Nick Hague",
         "age": "46 years",
+        "Country": "USA",
         "Education": " Massachusetts Institute of Technology",
         "img": "https://apogeospatial.com/wp-content/uploads/2019/02/NickHague_NASA_ORIG_12774201733_74f6086dcc_o-3.jpg",
         "salary": 63500
@@ -74,7 +83,8 @@
     {
         "id": "10",
         "name": "Eileen Collins",
-        "age": "64years",
+        "age": "64 years",
+        "Country": "USA",
         "Education": "Webster University School of Education ",
         "img": "https://upload.wikimedia.org/wikipedia/commons/8/88/Commander_Eileen_Collins_-_GPN-2000-001177.jpg",
         "salary": 35000
@@ -83,6 +93,7 @@
         "id": "11",
         "name": "Buzz Aldrin",
         "age": "91 years",
+        "Country": "USA",
         "Education": "United States Military Academy, Severn School",
         "img": "https://cdn.britannica.com/55/69055-050-8D293FF9/Buzz-Aldrin-1969.jpg",
         "salary": 32000
@@ -91,6 +102,7 @@
         "id": "12",
         "name": "Neil Armstrong",
         "age": "No More",
+        "Country": "USA",
         "Education": "University of Southern California",
         "img": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTc5OTk0MjgyMzk5MTE0MzYy/gettyimages-150832381.jpg",
         "salary": 5550
@@ -99,6 +111,7 @@
         "id": "13",
         "name": "Alan Bean",
         "age": "No More",
+        "Country": "USA",
         "Education": "University of Texas At Austin",
         "img": "https://cdni0.trtworld.com/w960/h540/q75/34056_20180526T193436Z_1174668639_RC1C0FB1D4F0_RTRMADP_3_PEOPLEALANBEAN_1527393167008.JPG",
         "salary": 6800
@@ -107,6 +120,7 @@
         "id": "14",
         "name": "Frank Borman",
         "age": "93 years",
+        "Country": "USA",
         "Education": " California Institute of Technology ",
         "img": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Frank_Borman.jpg",
         "salary": 9000
@@ -115,6 +129,7 @@
         "id": "15",
         "name": "Guion Bluford",
         "age": "78 years",
+        "Country": "USA",
         "Education": "University of Houston-Clear Lake",
         "img": "https://blackthen.com/wp-content/uploads/2015/07/guin-bufford-e1438064762648.jpg",
         "salary": 39000
@@ -123,6 +138,7 @@
         "id": "16",
         "name": "Charles Bolden Jr.",
         "age": "75 years",
+        "Country": "USA",
         "Education": "University of Southern California",
         "img": "https://thehighlandernews.com/wp-content/uploads/2018/06/CharlesBolden-e1528393867635-900x850.jpg",
         "salary": 43000

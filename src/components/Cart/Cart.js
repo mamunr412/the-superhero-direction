@@ -14,8 +14,7 @@ const Cart = (props) => {
             <h1>Astronaut Add : {props.cart.length}</h1>
             <h1>Salary: $ {total}</h1>
             {
-                cart.map(card => <span className="span-name" key={card.id}>
-                    {card.name}, </span>)
+                cart.map(card => <h3 key={card.id}>Name: {card.name}</h3>)
             }
 
         </div >
