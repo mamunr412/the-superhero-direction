@@ -1,0 +1,12 @@
+.header-conatiner{
+  overflow: hidden;
+    text-align: center;
+    background-color: #91ce7b;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+.header-conatiner h2{
+    font-weight: 500;
+    font-size:30px;
+}
+     
