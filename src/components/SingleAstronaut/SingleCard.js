@@ -11,16 +11,17 @@ const SingleCard = (props) => {
     return (
         //show single data
         <div className="single-card">
+
             <div className="card">
                 <img src={img} alt="" />
-                <div className="details">
-                    <h3>Name: {name}</h3>
-                    <h5>Age: {age}</h5>
-                    <h5>Country: {Country}</h5>
-                    <h5>University:  {Education} </h5>
-                    <h5>Salary: $ {salary}</h5>
-                    <button className="regular-btn" onClick={() => props.handelCart(props.astronaut)}>{shoppingCart} Add to Cart</button>
-                </div>
+            </div>
+            <div className="details">
+                <h3>Name: {name}</h3>
+                <h5>Age: {age}</h5>
+                <h5>Country: {Country}</h5>
+                <h5>University:  {Education} </h5>
+                <h5>Salary: $ {salary}</h5>
+                <button className="regular-btn" onClick={() => props.handelCart(props.astronaut)}>{shoppingCart} Add to Cart</button>
             </div>
             <div>
 

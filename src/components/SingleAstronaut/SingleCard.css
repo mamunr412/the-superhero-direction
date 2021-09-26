@@ -11,6 +11,7 @@
     height: 200px;
     width: 240px;
     object-fit: cover;
+   
 }
 .card{
     text-align: center;
@@ -24,6 +25,9 @@
     border-radius: 5px;
     border: 1px solid #f67728;
     cursor: pointer;
+}
+.details{
+    margin-left: 20px;
 }
 
 .details h5{
